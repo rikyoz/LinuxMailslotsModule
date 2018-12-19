@@ -45,7 +45,7 @@ The project provides a Makefile and can be compiled using the `make` command lin
 Once built, the module can be manually installed using the `insmod mailslot.ko` command (or via the `install.sh` utility shell script, which installs the module and creates also 3 mailslots files in the `/dev/` directory).
 Mailslot files can be created using the `mknod` command (for example usages, please see the `install.sh` script),
 
-In order to uninstall the module, the `rmmod mailslot` command must be used, as well as mailslot files can removed using the `rm` command (if the installation script was used, the module can also be uninstalled using the provided `uninstall.sh` shell script, which removes also the 3 mailslots files created during the installation).
+In order to uninstall the module, the `rmmod mailslot` command must be used, as well as mailslot files can be removed using the `rm` command (if the installation script was used, the module can also be uninstalled using the provided `uninstall.sh` shell script, which removes also the 3 mailslots files created during the installation).
 
 ## License (GPL v2)
 
