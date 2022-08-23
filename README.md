@@ -20,7 +20,7 @@ Linux Mailslots Module
 This project provides a simple and easy to use Linux kernel module implementing a service similar to Windows mailslots, i.e. a driver for special device files accessible according to FIFO policy.
 
 Developed for the course of *Advanced Operating Systems and Virtualization* (AOSV) taken in the A.Y. 2016/2017 for the *Master Degree in Engineering in Computer Science* (MSE-CS) at *Sapienza University of Rome*.
-The original project specification can be found [here](https://www.dis.uniroma1.it/~quaglia/DIDATTICA/AOSV/examination.html).
+The original project specification can be found [here](https://web.archive.org/web/20171002071848/https://www.dis.uniroma1.it/~quaglia/DIDATTICA/AOSV/examination.html).
 
 ## Features
 The module is a Linux driver for special device files supporting the following features:
